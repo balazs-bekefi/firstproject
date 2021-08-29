@@ -1,0 +1,12 @@
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\bin\Debug\negyedikheti.exe.config
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\bin\Debug\negyedikheti.exe
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\bin\Debug\negyedikheti.pdb
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.csprojAssemblyReference.cache
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.Properties.Resources.resources
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.csproj.GenerateResource.cache
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.csproj.CoreCompileInputs.cache
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.exe
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.pdb
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.Form1.resources
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.Form2.resources
+C:\Users\Balazs\source\repos\negyedikheti\negyedikheti\obj\Debug\negyedikheti.Form3.resources
